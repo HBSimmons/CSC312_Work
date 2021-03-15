@@ -26,3 +26,4 @@ try:
     printPermutations(myArray)
 except ValueError:
     print("Invalid input")
+    

@@ -16,4 +16,3 @@ m = int(input("Please enter a number: "))
 
 print(is_multiple(n, m))
 
-
